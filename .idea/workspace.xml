@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89039291-c274-427b-889f-68a2d773dcc6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2QVTiR2gMKBcjOO7MEN0Miiai3a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/java_project/Assessment_2/src/main/java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\java_project\Assessment_2\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mycompany.assessment_2.view" />
+      <recent name="com.mycompany.assessment_2.model" />
+      <recent name="com.mycompany.assessment_2.utils" />
+      <recent name="com.mycompany.assessment_2.dao" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mycompany.assessment_2.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.assessment_2.App" />
+      <module name="Assessment_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.assessment_2.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.assessment_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mycompany.assessment_2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.assessment_2.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.initTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.assessment_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mycompany.assessment_2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.assessment_2.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="initTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.isValidAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.assessment_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mycompany.assessment_2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.assessment_2.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="isValidAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.isValidEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.assessment_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mycompany.assessment_2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.assessment_2.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="isValidEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.UserServiceTest.initTable" />
+        <item itemvalue="JUnit.UserServiceTest.isValidAge" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.UserServiceTest.isValidEmail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89039291-c274-427b-889f-68a2d773dcc6" name="Changes" comment="" />
+      <created>1685437876922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685437876922</updated>
+      <workItem from="1685437878342" duration="2037000" />
+      <workItem from="1685495914742" duration="7317000" />
+      <workItem from="1685540300227" duration="3179000" />
+      <workItem from="1685583251512" duration="2161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/assessment_2/view/AdminJFrame.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
